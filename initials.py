@@ -11,7 +11,7 @@
 # and I have not provided this code to any other student.
 
 def main():
-    # Print initials AWA in small form then also as block letters made of their own letter
+    # Print the initials AWA in a small format and then later as block letters
 
 
     print()
